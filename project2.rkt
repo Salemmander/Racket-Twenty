@@ -155,13 +155,13 @@
 
 
 
-
+; Remove comments on one of the options below in order to play
   
 ; Testing your first AI
 ; (play-game user-interface project-ai-1)
 
 ; Testing your second AI
- (play-game user-interface project-ai-2)
+; (play-game user-interface project-ai-2)
 
 ; Make them Play each other
 ;(play-game project-ai-1 project-ai-2)
